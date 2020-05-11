@@ -1,4 +1,4 @@
-# Wine_Classfier_DecisionTree
+# Wine_Classifier_DecisionTree
 
 I use several decision tree methods to classify wines using the scikit-learn wine dataset. 
 
